@@ -1,10 +1,10 @@
 ---
-path: "/first-post"
+path: "/second-post"
 date: "2020-01-30"
-title: "Our first post"
+title: "Our second post"
 ---
 
-# Hello
+# Hello 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis lectus nulla at volutpat diam ut. Id porta nibh venenatis cras sed felis. Imperdiet nulla malesuada pellentesque elit eget gravida cum. Volutpat sed cras ornare arcu dui vivamus. Amet est placerat in egestas erat imperdiet sed euismod. In pellentesque massa placerat duis. Nisi porta lorem mollis aliquam ut porttitor leo. At varius vel pharetra vel turpis. Sit amet aliquam id diam maecenas. Eu mi bibendum neque egestas. Suscipit adipiscing bibendum est ultricies integer quis.
 
