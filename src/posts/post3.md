@@ -1,5 +1,5 @@
 ---
-path: "/third-post"
+slug: "/third-post"
 date: "2020-01-30"
 title: "Our third post"
 ---
