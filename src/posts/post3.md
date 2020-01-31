@@ -1,13 +1,28 @@
 ---
 slug: "/third-post"
 date: "2020-01-30"
-title: "Our third post"
+title: "My first close encounter from the third kind... of React with Gatsby!"
 ---
 
-# Hello 3
+# What is Gatsby?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis lectus nulla at volutpat diam ut. Id porta nibh venenatis cras sed felis. Imperdiet nulla malesuada pellentesque elit eget gravida cum. Volutpat sed cras ornare arcu dui vivamus. Amet est placerat in egestas erat imperdiet sed euismod. In pellentesque massa placerat duis. Nisi porta lorem mollis aliquam ut porttitor leo. At varius vel pharetra vel turpis. Sit amet aliquam id diam maecenas. Eu mi bibendum neque egestas. Suscipit adipiscing bibendum est ultricies integer quis.
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/u1nfa59pz15s40l5qipr.jpg)
 
-Amet aliquam id diam maecenas ultricies mi eget. Tristique sollicitudin nibh sit amet commodo nulla. Augue ut lectus arcu bibendum at varius vel. Orci sagittis eu volutpat odio facilisis. Arcu cursus euismod quis viverra nibh. Cursus euismod quis viverra nibh cras. Tellus mauris a diam maecenas sed enim ut sem. Consequat mauris nunc congue nisi vitae suscipit tellus mauris. A diam sollicitudin tempor id eu nisl nunc mi. Sodales ut eu sem integer vitae. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Lectus sit amet est placerat in egestas erat imperdiet. Ultricies integer quis auctor elit sed vulputate. Tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum. Proin libero nunc consequat interdum varius. Ut tristique et egestas quis ipsum suspendisse. Ipsum dolor sit amet consectetur adipiscing elit ut. Amet nisl purus in mollis nunc sed id. Id diam maecenas ultricies mi eget mauris. Maecenas sed enim ut sem viverra aliquet eget sit amet.
+> Gatsby is a free and open-source framework based on React that helps developers build blazing-fast websites and apps
 
-Faucibus pulvinar elementum integer enim neque. Vel pretium lectus quam id. Gravida in fermentum et sollicitudin ac orci phasellus. A pellentesque sit amet porttitor eget dolor morbi non arcu. Enim nunc faucibus a pellentesque sit amet. Erat velit scelerisque in dictum non consectetur a erat nam. Amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Morbi tincidunt augue interdum velit euismod. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Est ultricies integer quis auctor elit sed vulputate mi sit. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Faucibus nisl tincidunt eget nullam non. Malesuada fames ac turpis egestas sed tempus urna et pharetra. Laoreet id donec ultrices tincidunt. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo nec. Pulvinar proin gravida hendrerit lectus. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Nec dui nunc mattis enim ut.
+You can build seriously fast static websites very quickly with Gatsby. Gatsby also uses GraphQL which is a really nice query language that just might replace REST for my personal projects. Another great thing about Gatsby is all of the plugins available! There are so many great ones that can really make Gatsby shine. 
+
+Being a new developer I try to not get to distracted by the new shiny technologies, but I can say that I am really glad I got distracted by Gatsby. It has not only helped me understand React on a larger scale but has also really helped me understand query languages and API development. After finishing Scott Tolinksi Pro Gatsby 2 tutorial on [Level up Tutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2) I fell in love with the way Gatsby handles not just API calls but the way you can build multiple pages very quickly using Markdown files.
+
+---
+## Getting started
+
+You can download the Gatsby CLI to get started very fast, just run `npm install -g gatsby-cli`
+Gatsby comes equipped with a `create-react-app <appName> ` clone of its own in `gatsby new <appName>`.
+After that `cd <appName>` and run `gatsby develop` and see your base site appear at localhost:8000
+
+One really cool thing that `gatsby new <appName>` does for you is after the app is running on localhost:8000, you can go to localhost:8000/__graphiql (thats two _ _) and have your own mini Postman built-in. It makes it really easy to write your queries and confirm the data is what you want. Then you can simply copy and paste the query you wrote in graphiql into your code! Pretty great in my opinion.
+
+
+
+Next, I want to become more familiar with GraphQL, as it has been fairly simple to pick up given my previous knowledge of REST. I would also like to learn about implement Apollo into my stack because I recently attended a React JS Meetup and really like hearing what the speaker was able to do with Apollo. If anyone has any resources for strengthening these skills I would appreciate any advice!

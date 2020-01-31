@@ -11,6 +11,7 @@ exports.createPages = ({ graphql, actions}) => {
                 node {
                     frontmatter {
                     slug
+                    date
                 }
                 }
             }
