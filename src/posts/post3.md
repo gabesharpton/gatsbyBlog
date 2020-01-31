@@ -6,7 +6,7 @@ title: "My first close encounter from the third kind... of React with Gatsby!"
 
 # What is Gatsby?
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/u1nfa59pz15s40l5qipr.jpg)
+![Gatsby Logo](https://dev-to-uploads.s3.amazonaws.com/i/u1nfa59pz15s40l5qipr.jpg)
 
 > Gatsby is a free and open-source framework based on React that helps developers build blazing-fast websites and apps
 

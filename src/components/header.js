@@ -1,11 +1,12 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import gatsbyLogo from "../images/gatsby-icon.png"
+import gatsbyLogo from "../images/new-logo.png"
 import styled from 'styled-components'
+// import Img from 'gatsby-image'
 
 const HeaderWrapper = styled.div`
-  background: cornflowerblue;
+  background: rgb(80,33,180);
   margin-bottom: 1.45rem;
   img {
     margin-bottom: 0;
@@ -28,7 +29,8 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          <img style={{width: '100px',}}src={gatsbyLogo} alt="Gatsby logo"/>
+          {/* <Img fluid={data.fileName.childImageSharp.fluid} /> */}
+          <img src={gatsbyLogo} alt="Logo" ></img>
         </Link>
       </h1>
     
