@@ -24,7 +24,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-netlify`,
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -39,6 +39,6 @@ module.exports = {
     },
    
      //`gatsby-plugin-offline`,
-     
+     `gatsby-plugin-netlify`,
   ],
 }

@@ -30,7 +30,7 @@ const LISTING_QUERY = graphql`
             text-decoration: none;
         }
         p {
-            font-size: 0.8rem;
+            font-size: 1rem;
         }
         h2 {
             margin-bottom: 0;
